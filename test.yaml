@@ -1,3 +1,0 @@
-apiVersion: alpine/v1
-kind: deployment
-labels: nginx
